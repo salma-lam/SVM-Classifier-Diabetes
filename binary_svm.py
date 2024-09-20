@@ -1,6 +1,4 @@
-                                                 #TP SVM 
-
-            #### Partie I : SVM Binaire ####
+            ####   SVM Binaire  ####
 
 #I-1-
 import pandas as pd
