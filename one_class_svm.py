@@ -1,6 +1,5 @@
-                                    #TP SVM
 
-            ####  Partie II: SVM Mono-classe  ####
+            ####  SVM Mono-classe  ####
 
 import pandas as pd
 # Charger les données depuis le fichier CSV
